@@ -11,7 +11,6 @@ const Main = () => {
     return (
         <div className='main'>
             <div className='bur_block'>
-                <p style={{fontSize:"40px", fontFamily:"Ubuntu"}}>Premium водки</p>
                 <img src={bur1}/>
                 <p>Бурана 1л</p>
                 <img src={but7}/>
@@ -19,9 +18,9 @@ const Main = () => {
                 <img src={bur5}/>
                 <p>Бурана 0,48л</p>
                 <img src={ros7}/>
-                <p>Росы 0,7л</p>
+                <p>Чистые росы 0,7л</p>
                 <img src={ros5}/>
-                <p>Росы 0,5л</p>
+                <p>Чистые росы 0,5л</p>
                 <img src={kag2}/>
                 <p>Каганат 0,7л</p>
             </div>
