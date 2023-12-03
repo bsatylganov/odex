@@ -1,5 +1,5 @@
 import './App.css'
-import logo from './Снимок экрана 2023-11-09 215424_pixian_ai.png'
+import logo from './logo.png'
 import logo2 from './4nepbq6ttueajwfofzeadwf94nhpdygtoe.png'
 
 function Header() {

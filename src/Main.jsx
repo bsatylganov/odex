@@ -5,11 +5,14 @@ import bur5 from './юурана5_pixian_ai.png'
 import but7 from './бурана7_pixian_ai.png'
 import ros5 from './роса5_pixian_ai.png'
 import ros7 from './роса7_pixian_ai.png'
-import kag2 from './photo_2023-11-09_09-03-25_pixian_ai.png'
+import kag1 from './kag1.png'
+import kag2 from './kag2.png'
+import alkash from './348146064033211.png'
 
 const Main = () => {
     return (
         <div className='main'>
+            {/* <img src={alkash} className='alkash'/> */}
             <div className='bur_block'>
                 <img src={bur1}/>
                 <p>Бурана 1л 450c</p>
@@ -23,6 +26,8 @@ const Main = () => {
                 <p>Чистые росы 0,5л 320с</p>
                 <img src={kag2}/>
                 <p>Каганат 0,7л 470с</p>
+                <img src={kag1}/>
+                <p>Каганат 0,5л 390с</p>
             </div>
         </div>
     );
